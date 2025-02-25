@@ -1,6 +1,5 @@
 # Strapi + PostgreSQL в Docker
 
-Мини гайд по развертке проекта в Docker.
 Все зависимости указаны в package.json.
 Все происходит на версии Strapi v4, Node.js 18.20.7, npm 9.9.4
 
