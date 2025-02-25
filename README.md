@@ -13,9 +13,14 @@
 ## Установка
 
 1. Клонируйте репозиторий
-2. Перейдите в директорию проекта
-3. Запустите контейнер
 ```bash
 git clone https://github.com/inkogniito/strapi-pg-docker-example
+```
+2. Перейдите в директорию проекта
+ ```bash
 cd strapi-pg-docker-example
+```
+3. Запустите контейнер
+```bash
 docker-compose up --build
+```
